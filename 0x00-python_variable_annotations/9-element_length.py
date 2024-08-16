@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""9-element_length.py: A function that returns a list of tuples with elements and their lengths."""
+"""9-element_length.py: A function that returns a list of tuples."""
 
 from typing import Iterable, List, Sequence, Tuple
 
